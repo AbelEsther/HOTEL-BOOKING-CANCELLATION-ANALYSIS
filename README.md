@@ -1,7 +1,7 @@
 # HOTEL-BOOKING-CANCELLATION-ANALYSIS
 
 ## Notebook used in Data analysis and Model Building
-[hotel_bookings.ipynb]( )
+[hotel_bookings.ipynb](https://github.com/AbelEsther/HOTEL-BOOKING-CANCELLATION-ANALYSIS/blob/bee3618182b6339fc3d139d73795b2331ee9db98/hotel_bookings.ipynb)
 
 ## Dataset Link
 [hotel_bookings.csv](https://github.com/AbelEsther/HOTEL-BOOKING-CANCELLATION-ANALYSIS/blob/a162c2a89f87486a8597cd37a05362ea1a69a5bf/hotel_bookings.csv)
