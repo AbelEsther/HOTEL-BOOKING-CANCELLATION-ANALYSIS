@@ -1,5 +1,10 @@
 # HOTEL-BOOKING-CANCELLATION-ANALYSIS
 
+## Notebook used in Data analysis and Model Building
+[hotel_bookings.ipynb]( )
+
+## Dataset Link
+[hotel_bookings.csv](https://github.com/AbelEsther/HOTEL-BOOKING-CANCELLATION-ANALYSIS/blob/a162c2a89f87486a8597cd37a05362ea1a69a5bf/hotel_bookings.csv)
 
 ## **Comparison of Models: Logistic Regression, KNN, and Pre-Pruning Decision Tree**
 
@@ -106,7 +111,7 @@ Here’s the comparison of **Logistic Regression**, **KNN**, and **Decision Tree
 
 KNN is the best model because it achieves the **highest recall for class 1 (30%)**, making it more effective at identifying cancellations compared to Logistic Regression (7%) and the Pre-Pruning Decision Tree (3%). This is crucial for minimizing missed cancellations, which can lead to overbooking and revenue losses. Additionally, KNN balances recall with acceptable precision (44%) and a competitive F1-score (36%), providing better performance in handling cancellations while maintaining reasonable accuracy (70%). Its ability to model nonlinear relationships further justifies its selection over simpler models like Logistic Regression or Decision Tree.
 
---
+---
 ### d. **Recommendations**
 1. Improve predictive power by adding or transforming features.
 2. Address class imbalance using techniques like oversampling or class weighting.
